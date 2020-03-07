@@ -1,0 +1,13 @@
+{
+"companyName": "regul",
+"productName": "com.regul.regul",
+"dataUrl": "gamewebgl.data.unityweb",
+"wasmCodeUrl": "gamewebgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "gamewebgl.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
